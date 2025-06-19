@@ -1,4 +1,0 @@
-Raunak Sharma is my name.
-I am learning GIT.
-I am Loving it.
-Next will be PostgreSQL
